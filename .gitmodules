@@ -1,0 +1,9 @@
+[submodule "be-the-hero/be-the-hero-web"]
+	path = be-the-hero/be-the-hero-web
+	url = https://github.com/FabyoSK/be-the-hero-web.git
+[submodule "be-the-hero/be-the-hero-mobile"]
+	path = be-the-hero/be-the-hero-mobile
+	url = https://github.com/FabyoSK/be-the-hero-mobile.git
+[submodule "be-the-hero/be-the-hero-backend"]
+	path = be-the-hero/be-the-hero-backend
+	url = https://github.com/FabyoSK/be-the-hero-backend.git
